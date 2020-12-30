@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "queteAngularGuard"
+    }
+  },
+  "defaultProject": "queteAngularGuard",
+  "cli": {
+    "analytics": "fec9cc3c-7c54-4df1-804c-15bbfa462e1f"
+  }
 }
